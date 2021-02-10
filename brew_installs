@@ -5,9 +5,9 @@ brew install tree
 
 # Install MacOS Applications
 brew install --cask google-chrome
-#brew install --cask virtualbox
 brew install --cask spotify
 brew install --cask discord
 brew install --cask thinkorswim
 brew install --cask omnidisksweeper
-brew install --cask pycharm-ce
+#brew install --cask virtualbox
+#brew install --cask pycharm-ce
