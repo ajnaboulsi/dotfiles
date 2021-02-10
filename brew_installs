@@ -9,5 +9,6 @@ brew install --cask spotify
 brew install --cask discord
 brew install --cask thinkorswim
 brew install --cask omnidisksweeper
+#brew install --cask zoomus
 #brew install --cask virtualbox
 #brew install --cask pycharm-ce
