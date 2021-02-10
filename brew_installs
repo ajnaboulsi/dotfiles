@@ -8,3 +8,6 @@ brew cask install google-chrome
 #brew cask install virtualbox
 brew cask install spotify
 brew cask install discord
+brew cask install thinkorswim
+brew cask install omnidisksweeper
+#brew cask install pycharm-ce
